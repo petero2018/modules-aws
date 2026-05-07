@@ -6,7 +6,7 @@ The current list of supported modules is:
 
 <!-- BEGINNING OF CURRENT MODULES HOOK -->
 
-* [acm](acm/README.md)
+* [modules-aws/acm](acm/README.md)
 * [modules-aws/backup-recovery](aws/backup-recovery/README.md)
 * [modules-aws/backup/destination](modules-aws/backup/destination/README.md)
 * [modules-aws/backup/source/role](modules-aws/backup/source/role/README.md)
