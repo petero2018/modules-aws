@@ -1,6 +1,6 @@
-# modules-aws
+# modules-aws - Reusable AWS infrastructure modules
 
-Reusable AWS modules for many services, including:
+This repository provides reusable AWS infrastructure modules for many services, including:
 
 - MSK
 - MSK Connect
